@@ -37,7 +37,7 @@
 [![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07)](https://github.com/Bhagirath07/github-readme-stats)]
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagirath07)](https://github.com/Bhagirath07/github-readme-stats)]
 
 [twitter]: https://twitter.com/BTh_07
 [instagram]: https://instagram.com/_bhagirath_0608
