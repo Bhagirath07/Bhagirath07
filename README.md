@@ -30,12 +30,13 @@
 <img align="left" alt="Django" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Flask" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="XCode" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
 
 ---
-[![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=tokyonight)](https://github.com/Bhagirath07/github-readme-stats)]
+[![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=tokyonight)](https://github.com/Bhagirath07/github-readme-stats)
 
 [twitter]: https://twitter.com/BTh_07
 [instagram]: https://instagram.com/_bhagirath_0608
