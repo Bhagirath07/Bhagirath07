@@ -34,7 +34,7 @@
 <br />
 
 ---
-[![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07)](https://github.com/Bhagirath07/github-readme-stats)]
+[![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=radical)](https://github.com/Bhagirath07/github-readme-stats)]
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagirath07)](https://github.com/Bhagirath07/github-readme-stats)]
