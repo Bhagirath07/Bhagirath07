@@ -3,7 +3,7 @@
 ## I'm a Student, Learner and Developer! 🎓
 - 🔭 I’m currently working on a Python and Swift 💻
 - 🌱 I’m currently learning on Machine Learning and iOS App Development.🎯
-- 📧 How to reach me : [@BTh_07](https://twitter.com/BTh_07) | [@icoder07](https://www.instagram.com/icoder07)
+- 📧 How to reach me : [@BTh_07](https://twitter.com/BTh_07)
 - 💬 Ask me about related to Python/Swift/Java
 - ⚡ Fun fact: I love to draw and play Cricket. 🏏
 
