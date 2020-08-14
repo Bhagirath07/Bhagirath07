@@ -15,6 +15,8 @@
 
 [<img align="left" alt="_bhagirath_0608 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt=" BhagiraTh | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][instagram]
+
 <br />
 
 ### Languages and Tools:
@@ -41,4 +43,5 @@
 [twitter]: https://twitter.com/BTh_07
 [instagram]: https://instagram.com/_bhagirath_0608
 [linkedin]: https://www.linkedin.com/in/bhagirath-3757
+[Gmail]: https://www.gmail.com/bhagirath3757@gmail.com
 
