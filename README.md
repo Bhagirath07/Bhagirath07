@@ -3,13 +3,13 @@
 ## I'm a Student, Learner and Developer! 🎓
 - 🔭 I’m currently working on a Python and Swift 💻
 - 🌱 I’m currently learning on Machine Learning and iOS App Development.🎯
-- 📧 How to reach me : [@BTh_07](https://twitter.com/BTh_07)
+- 📧 How to reach me : [@iCoder07](https://twitter.com/iCoder07)
 - 💬 Ask me about related to Python / Swift / Java
 - ⚡ Fun fact: I love to draw and play Cricket. 🏏
 
 ### Connect with me:
 
-[<img align="left" alt="BTh_07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="iCoder07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 [<img align="left" alt="Bhagirath Deshani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -38,7 +38,7 @@
 ---
 [![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=tokyonight)](https://github.com/Bhagirath07/github-readme-stats)
 
-[twitter]: https://twitter.com/BTh_07
+[twitter]: https://twitter.com/iCoder07
 [instagram]: https://instagram.com/_bhagirath_0608
 [linkedin]: https://www.linkedin.com/in/bhagirath-3757
 
