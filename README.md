@@ -38,7 +38,7 @@
 ---
 [![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=tokyonight)](https://github.com/Bhagirath07/github-readme-stats)
 
-[twitter]: https://twitter.com/BTh_07
+[twitter]: https://twitter.com/DynamoB7
 [instagram]: https://instagram.com/_bhagirath_0608
 [linkedin]: https://www.linkedin.com/in/bhagirath-3757
 
