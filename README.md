@@ -1,9 +1,9 @@
 ### Hi there, I'm Bhagirath Deshani [Bhagirath07] 👋
 
-## I'm a Student, Learner and Developer! 🎓
+## I'm a Engineer, Learner and Developer! 🎓
 - 🔭 I’m currently working on a Python and Swift 💻
-- 🌱 I’m currently learning on Machine Learning , Deep Learning and iOS/Android App Development.🎯
-- 📧 How to reach me : [@BTh_07](https://twitter.com/BTh_07)
+- 🌱 I’m currently learn on Machine Learning , Deep Learning and iOS/Android App Development.🎯
+- 📧 How to reach me : [@DynamoB7](https://twitter.com/DynamoB7)
 - 💬 Ask me about related to Python | Swift | Java | Dart
 - ⚡ Fun fact: I love to draw and play Cricket. 🏏
 
