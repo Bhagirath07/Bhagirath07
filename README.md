@@ -1,11 +1,9 @@
 ### Hi there, I'm Bhagirath Deshani [Bhagirath07] 👋
 
-## I'm a Engineer, Learner and Developer! 🎓
-- 🔭 I’m currently working on a Python and Swift 💻
-- 🌱 I’m currently learn on Machine Learning , Deep Learning and iOS/Android App Development.🎯
+I am CS graduated. I am from India.I have been interested in machine learning since my engineering days. I stumbled upon Andrew NG’s original ML course on Stanford Online in my third year of engineering and also complete IBM course on Machine Learning and Deep Learning courses. Currently, I am working on ML project and Data Science project.
+
 - 📧 How to reach me : [@DynamoB7](https://twitter.com/DynamoB7)
-- 💬 Ask me about related to Python | Swift | Java | Dart
-- ⚡ Fun fact: I love to draw and play Cricket. 🏏
+- 💬 Ask me about related to Python | Swift 
 
 ### Connect with me:
 
