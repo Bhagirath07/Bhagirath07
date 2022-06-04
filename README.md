@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Bhagirath Deshani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="_bhagirath_b7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bhagirath_b7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,7 +39,7 @@
 [![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=tokyonight)](https://github.com/Bhagirath07/github-readme-stats)
 
 [twitter]: https://twitter.com/DynamoB7
-[instagram]: https://instagram.com/_bhagirath_b7
+[instagram]: https://instagram.com/bhagirath_b7
 [linkedin]: https://www.linkedin.com/in/bhagirath-3757
 
 
