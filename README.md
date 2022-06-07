@@ -17,6 +17,8 @@ I am Data Scientist. I am from India. I have been interested in machine learning
 
 [<img align="left" alt="Bhagirath Deshani | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
+[<img align="left" alt="Bhagirath07 | Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 <br />
 
 ### Languages and Tools:
@@ -45,5 +47,6 @@ I am Data Scientist. I am from India. I have been interested in machine learning
 [linkedin]: https://www.linkedin.com/in/bhagirath-3757
 [telegram]: https://t.me/Bhagirath07
 [facebook]: https://www.facebook.com/Bhagirath3757
+[discord]: https://discord.gg/U6mnBCFBZF
 
 
