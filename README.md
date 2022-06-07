@@ -7,11 +7,15 @@ I am Data Scientist. I am from India. I have been interested in machine learning
 
 ### Connect with me:
 
-[<img align="left" alt="BTh_07 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="DynamoB7 | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="Bhagirath Deshani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Bhagirath Deshani | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="bhagirath_b7 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="bhagirath_b7 | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="Bhagirath07 | Telegram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+
+[<img align="left" alt="Bhagirath Deshani | Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -39,5 +43,7 @@ I am Data Scientist. I am from India. I have been interested in machine learning
 [twitter]: https://twitter.com/DynamoB7
 [instagram]: https://instagram.com/bhagirath_b7
 [linkedin]: https://www.linkedin.com/in/bhagirath-3757
+[telegram]: https://t.me/Bhagirath07
+[facebook]: https://www.facebook.com/Bhagirath3757
 
 
