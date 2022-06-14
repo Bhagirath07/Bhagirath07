@@ -1,6 +1,6 @@
 ### Hi there, I'm Bhagirath Deshani [Bhagirath07] 👋
 
-I am Data Scientist. I am from India. I have been interested in machine learning since my engineering days. I stumbled upon Andrew NG’s original ML course on Stanford Online in my third year of engineering and also complete the IBM course on Machine Learning and Deep Learning courses. Currently, I am working on an ML project and a Data Science project.
+I am Data Scientist. I am from India. I have been interested in machine learning since my engineering days. I have completed Andrew NG’s original Machine Learning course from Standford University at Coursera and also completed the IBM course on Machine Learning and Deep Learning. Currently, I am working on a Machine Learning project and a Data Science project.
 
 - 📧 How to reach me : [@DynamoB7](https://twitter.com/DynamoB7)
 - 💬 Ask me about related to Python | Swift 
