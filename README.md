@@ -71,6 +71,7 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
 
 
 ### Languages and Tools 🖥️ :
+----------------------------
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
@@ -84,7 +85,10 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
+<br><br><br>
+
 ### Connect with me 🗳️:
+-----------------------
 
 <p align="left">
   
@@ -147,5 +151,6 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
 
 ### Support Me ❤️ :
+-------------------
 
 <a href="https://www.buymeacoffee.com/bhagirath7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
