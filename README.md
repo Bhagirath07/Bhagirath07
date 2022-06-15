@@ -61,7 +61,7 @@ I have been interested in machine learning since my engineering days. I have com
 
 * 🌍 I'm from India
 * 📧 How to reach me : [@bhagirath7](https://linktr.ee/bhagirath7)
-* 💬 Ask me about related to Python | Swift 
+* 💬 Ask me about related to Python and Swift 
 
 
 <a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer">
