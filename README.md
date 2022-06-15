@@ -73,7 +73,7 @@ I have been interested in machine learning since my engineering days. I have com
 </a>
 
 
-### Work Platform :
+<!-- ### Work Platform :
 -------------------
 
 <p align="left">
@@ -82,7 +82,7 @@ I have been interested in machine learning since my engineering days. I have com
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/freelancer.svg" width="32" height="32" />
   </a>
   
-</p>
+</p> -->
 
 
 
