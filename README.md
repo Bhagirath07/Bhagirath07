@@ -163,7 +163,8 @@ I have been interested in machine learning since my engineering days. I have com
 
 <br>
 
-[https://api.daily.dev/devcards/fc2b23db526f4c2281e392b85c51f582.png?r=be3](https://api.daily.dev/devcards/fc2b23db526f4c2281e392b85c51f582.png?r=be3)
+  <a href="https://app.daily.dev/bhagirath07"><img src="https://api.daily.dev/devcards/fc2b23db526f4c2281e392b85c51f582.png?r=wid" width="400" alt="Bhagirath Deshani's Dev Card"/></a>
+
 
 <br>
 
