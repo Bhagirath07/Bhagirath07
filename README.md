@@ -163,6 +163,10 @@ I have been interested in machine learning since my engineering days. I have com
 
 <br>
 
+[https://api.daily.dev/devcards/fc2b23db526f4c2281e392b85c51f582.png?r=be3](https://api.daily.dev/devcards/fc2b23db526f4c2281e392b85c51f582.png?r=be3)
+
+<br>
+
 ### My GitHub Stats 📈
 -----------------------
 
