@@ -64,10 +64,13 @@ I have been interested in machine learning since my engineering days. I have com
 * 💬 Ask me about related to Python | Swift 
 
 
-<a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DynamoB7?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/DynamoB7?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
+</a>
+
+<a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
+</a>
 
 
 ### Languages and Tools 🖥️ :
@@ -93,11 +96,11 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
 <p align="left">
   
   <a href="https://www.linkedin.com/in/bhagirath-3757" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   
   <a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
   
 <!--   <a href="https://t.me/Bhagirath07" target="_blank" rel="noreferrer">
@@ -106,23 +109,23 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
   <tr></tr> -->
   
   <a href="https://dev.to/bhagirath07" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+    <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a>
   
   <a href="http://www.instagram.com/bhagirath_b7" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    <imgaligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
   
   <a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
 
   <a href="https://discord.gg/U6mnBCFBZF" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>  
   
   <a href="https://www.twitch.tv/bhagirath07" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+    <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
   </a>
 
   
