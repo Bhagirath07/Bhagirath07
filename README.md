@@ -70,7 +70,7 @@ src="https://img.shields.io/twitter/follow/DynamoB7?logo=twitter&style=for-the-b
 src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
 
 
-### Languages and Tools :
+### Languages and Tools 🖥️ :
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Swift" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
@@ -84,44 +84,38 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-### Connect with me :
+### Connect with me 🗳️:
 
 <p align="left">
   
   <a href="https://www.linkedin.com/in/bhagirath-3757" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
-  <tr></tr>
   
   <a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
-  <tr></tr>
   
-  <a href="https://t.me/Bhagirath07" target="_blank" rel="noreferrer">
+<!--   <a href="https://t.me/Bhagirath07" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="32" height="32" />
   </a>
-  <tr></tr>
+  <tr></tr> -->
   
   <a href="https://dev.to/bhagirath07" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a>
-  <tr></tr>
   
   <a href="http://www.instagram.com/bhagirath_b7" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-  <tr></tr>
   
   <a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
-  <tr></tr>
 
   <a href="https://discord.gg/U6mnBCFBZF" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>  
-  <tr></tr>
   
   <a href="https://www.twitch.tv/bhagirath07" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
@@ -152,6 +146,6 @@ src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-t
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
 
-### Support Me
+### Support Me ❤️ :
 
 <a href="https://www.buymeacoffee.com/bhagirath7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
