@@ -68,12 +68,12 @@ I have been interested in machine learning since my engineering days. I have com
   <img src="https://img.shields.io/twitter/follow/DynamoB7?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/>
 </a>
 
-<a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer" style="padding-left= 5px;">
   <img src="https://img.shields.io/github/followers/Bhagirath07?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" />
 </a>
 
 
-### Languages and Tools 🖥️ :
+### Languages and Tools :
 ----------------------------
 
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -90,16 +90,16 @@ I have been interested in machine learning since my engineering days. I have com
 
 <br><br><br>
 
-### Connect with me 🗳️:
+### Connect with me :
 -----------------------
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/bhagirath-3757" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/bhagirath-3757" target="_blank" rel="noreferrer" style="padding-left= 5px;">
     <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   
-  <a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer">
+  <a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer" style="padding-left= 5px;">
     <img aligh="left" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
   
@@ -153,7 +153,7 @@ I have been interested in machine learning since my engineering days. I have com
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
 
-### Support Me ❤️ :
+### Support Me ❤️ 
 -------------------
 
 <a href="https://www.buymeacoffee.com/bhagirath7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
