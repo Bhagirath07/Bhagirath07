@@ -145,6 +145,10 @@ I have been interested in machine learning since my engineering days. I have com
 
 </p>
 
+<br><br><br>
+
+### My GitHub Stats 📈
+-----------------------
 
 [![Bhagirath's github stats](https://github-readme-stats.vercel.app/api?username=Bhagirath07&show_icons=true&theme=tokyonight)](https://github.com/Bhagirath07/github-readme-stats)
 
@@ -152,6 +156,8 @@ I have been interested in machine learning since my engineering days. I have com
 <!-- <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br /> -->
+
+<br><br><br>
 
 ### Support Me ❤️ 
 -------------------
