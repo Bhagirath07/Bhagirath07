@@ -96,11 +96,11 @@ I have been interested in machine learning since my engineering days. I have com
 <p align="left">
   
   <a href="https://www.linkedin.com/in/bhagirath-3757" target="_blank" rel="noreferrer" >
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a>
   
   <a href="https://www.twitter.com/DynamoB7" target="_blank" rel="noreferrer" style="padding-left= 5px;">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
   </a>
   
 <!--   <a href="https://t.me/Bhagirath07" target="_blank" rel="noreferrer">
@@ -108,27 +108,27 @@ I have been interested in machine learning since my engineering days. I have com
   </a> -->
   
   <a href="https://dev.to/bhagirath07" target="_blank" rel="noreferrer">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
   </a>
   
   <a href="http://www.instagram.com/bhagirath_b7" target="_blank" rel="noreferrer">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
   
   <a href="https://www.facebook.com/Bhagirath3757" target="_blank" rel="noreferrer">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
   </a>
   
   <a href="https://www.github.com/Bhagirath07" target="_blank" rel="noreferrer">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
 
   <a href="https://discord.gg/U6mnBCFBZF" target="_blank" rel="noreferrer">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
   </a>  
   
   <a href="https://www.twitch.tv/bhagirath07" target="_blank" rel="noreferrer">
-    <img style="padding-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+    <img style="margin-left: 80px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
   </a>
 
   
